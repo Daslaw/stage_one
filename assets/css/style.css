@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #e5adad;
+}
+
+.container{
+    margin: 20px;
+    padding: 20px;
+    border:  1px solid #ccc;
+    border-radius: 5px;
+    background-color: #bec0a2;
+}
+
+img{
+    max-width: 200px;
+    height:auto;
+    margin: 10px 0;
+    border-radius: 50%;
+}
+
+a{
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:overline;
+}
